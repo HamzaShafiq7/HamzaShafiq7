@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 <img src='./Assets/Monkey_Kid_Coding.gif' width="280" align="right">
+
 🔭 I’m currently working on **freelance ML/NLP projects** and refining my AI/ML portfolio for job applications<br>
 👯 I’m looking to collaborate on **NLP and applied machine learning projects** (text classification, healthcare AI, model explainability)<br>
 🤝 I’m looking for help with **breaking into my first full-time AI/ML role** — referrals, leads, and interview practice always welcome<br>
